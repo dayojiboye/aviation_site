@@ -1,0 +1,46 @@
+* {
+    margin: 0 2px;
+}
+
+header {
+    background-image: url('images/CARR-01.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 300px;
+    background-position: center;
+}
+
+nav {
+    background-color: blueviolet;
+    margin-top: 5px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 10px 0;
+    margin-left: -4px;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+main {
+    background-color: lightgreen;
+    padding: 1px 15px;
+}
+
+h1 {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+p {
+    margin-bottom: 30px;
+}
